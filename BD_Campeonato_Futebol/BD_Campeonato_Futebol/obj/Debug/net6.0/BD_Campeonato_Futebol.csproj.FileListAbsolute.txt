@@ -1,0 +1,44 @@
+C:\Users\Matheus\Desktop\Aulas - Exercícios\4ª Semana\BD_Campeonato_Futebol\BD_Campeonato_Futebol\bin\Debug\net6.0\BD_Campeonato_Futebol.exe
+C:\Users\Matheus\Desktop\Aulas - Exercícios\4ª Semana\BD_Campeonato_Futebol\BD_Campeonato_Futebol\bin\Debug\net6.0\BD_Campeonato_Futebol.deps.json
+C:\Users\Matheus\Desktop\Aulas - Exercícios\4ª Semana\BD_Campeonato_Futebol\BD_Campeonato_Futebol\bin\Debug\net6.0\BD_Campeonato_Futebol.runtimeconfig.json
+C:\Users\Matheus\Desktop\Aulas - Exercícios\4ª Semana\BD_Campeonato_Futebol\BD_Campeonato_Futebol\bin\Debug\net6.0\BD_Campeonato_Futebol.dll
+C:\Users\Matheus\Desktop\Aulas - Exercícios\4ª Semana\BD_Campeonato_Futebol\BD_Campeonato_Futebol\bin\Debug\net6.0\BD_Campeonato_Futebol.pdb
+C:\Users\Matheus\Desktop\Aulas - Exercícios\4ª Semana\BD_Campeonato_Futebol\BD_Campeonato_Futebol\obj\Debug\net6.0\BD_Campeonato_Futebol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Desktop\Aulas - Exercícios\4ª Semana\BD_Campeonato_Futebol\BD_Campeonato_Futebol\obj\Debug\net6.0\BD_Campeonato_Futebol.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\Aulas - Exercícios\4ª Semana\BD_Campeonato_Futebol\BD_Campeonato_Futebol\obj\Debug\net6.0\BD_Campeonato_Futebol.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\Aulas - Exercícios\4ª Semana\BD_Campeonato_Futebol\BD_Campeonato_Futebol\obj\Debug\net6.0\BD_Campeonato_Futebol.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Aulas - Exercícios\4ª Semana\BD_Campeonato_Futebol\BD_Campeonato_Futebol\obj\Debug\net6.0\BD_Campeonato_Futebol.dll
+C:\Users\Matheus\Desktop\Aulas - Exercícios\4ª Semana\BD_Campeonato_Futebol\BD_Campeonato_Futebol\obj\Debug\net6.0\refint\BD_Campeonato_Futebol.dll
+C:\Users\Matheus\Desktop\Aulas - Exercícios\4ª Semana\BD_Campeonato_Futebol\BD_Campeonato_Futebol\obj\Debug\net6.0\BD_Campeonato_Futebol.pdb
+C:\Users\Matheus\Desktop\Aulas - Exercícios\4ª Semana\BD_Campeonato_Futebol\BD_Campeonato_Futebol\obj\Debug\net6.0\BD_Campeonato_Futebol.genruntimeconfig.cache
+C:\Users\Matheus\Desktop\Aulas - Exercícios\4ª Semana\BD_Campeonato_Futebol\BD_Campeonato_Futebol\obj\Debug\net6.0\ref\BD_Campeonato_Futebol.dll
+C:\Users\Matheus\Desktop\Aulas - Exercícios\4ª Semana\BD_Campeonato_Futebol\BD_Campeonato_Futebol\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Matheus\Desktop\Aulas - Exercícios\4ª Semana\BD_Campeonato_Futebol\BD_Campeonato_Futebol\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Matheus\Desktop\Aulas - Exercícios\4ª Semana\BD_Campeonato_Futebol\BD_Campeonato_Futebol\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Matheus\Desktop\Aulas - Exercícios\4ª Semana\BD_Campeonato_Futebol\BD_Campeonato_Futebol\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Matheus\Desktop\Aulas - Exercícios\4ª Semana\BD_Campeonato_Futebol\BD_Campeonato_Futebol\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Matheus\Desktop\Aulas - Exercícios\4ª Semana\BD_Campeonato_Futebol\BD_Campeonato_Futebol\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Matheus\Desktop\Aulas - Exercícios\4ª Semana\BD_Campeonato_Futebol\BD_Campeonato_Futebol\obj\Debug\net6.0\BD_Campeonato_Futebol.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\Aulas - Exercícios\4ª Semana\BD_Campeonato_Futebol\BD_Campeonato_Futebol\obj\Debug\net6.0\BD_Campe.C6E73E37.Up2Date
+C:\Users\Matheus\Desktop\TRABALHOS\BD_Campeonato_Futebol\BD_Campeonato_Futebol\BD_Campeonato_Futebol\bin\Debug\net6.0\BD_Campeonato_Futebol.exe
+C:\Users\Matheus\Desktop\TRABALHOS\BD_Campeonato_Futebol\BD_Campeonato_Futebol\BD_Campeonato_Futebol\bin\Debug\net6.0\BD_Campeonato_Futebol.deps.json
+C:\Users\Matheus\Desktop\TRABALHOS\BD_Campeonato_Futebol\BD_Campeonato_Futebol\BD_Campeonato_Futebol\bin\Debug\net6.0\BD_Campeonato_Futebol.runtimeconfig.json
+C:\Users\Matheus\Desktop\TRABALHOS\BD_Campeonato_Futebol\BD_Campeonato_Futebol\BD_Campeonato_Futebol\bin\Debug\net6.0\BD_Campeonato_Futebol.dll
+C:\Users\Matheus\Desktop\TRABALHOS\BD_Campeonato_Futebol\BD_Campeonato_Futebol\BD_Campeonato_Futebol\bin\Debug\net6.0\BD_Campeonato_Futebol.pdb
+C:\Users\Matheus\Desktop\TRABALHOS\BD_Campeonato_Futebol\BD_Campeonato_Futebol\BD_Campeonato_Futebol\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Matheus\Desktop\TRABALHOS\BD_Campeonato_Futebol\BD_Campeonato_Futebol\BD_Campeonato_Futebol\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Matheus\Desktop\TRABALHOS\BD_Campeonato_Futebol\BD_Campeonato_Futebol\BD_Campeonato_Futebol\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Matheus\Desktop\TRABALHOS\BD_Campeonato_Futebol\BD_Campeonato_Futebol\BD_Campeonato_Futebol\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Matheus\Desktop\TRABALHOS\BD_Campeonato_Futebol\BD_Campeonato_Futebol\BD_Campeonato_Futebol\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Matheus\Desktop\TRABALHOS\BD_Campeonato_Futebol\BD_Campeonato_Futebol\BD_Campeonato_Futebol\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Matheus\Desktop\TRABALHOS\BD_Campeonato_Futebol\BD_Campeonato_Futebol\BD_Campeonato_Futebol\obj\Debug\net6.0\BD_Campeonato_Futebol.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\TRABALHOS\BD_Campeonato_Futebol\BD_Campeonato_Futebol\BD_Campeonato_Futebol\obj\Debug\net6.0\BD_Campeonato_Futebol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Desktop\TRABALHOS\BD_Campeonato_Futebol\BD_Campeonato_Futebol\BD_Campeonato_Futebol\obj\Debug\net6.0\BD_Campeonato_Futebol.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\TRABALHOS\BD_Campeonato_Futebol\BD_Campeonato_Futebol\BD_Campeonato_Futebol\obj\Debug\net6.0\BD_Campeonato_Futebol.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\TRABALHOS\BD_Campeonato_Futebol\BD_Campeonato_Futebol\BD_Campeonato_Futebol\obj\Debug\net6.0\BD_Campeonato_Futebol.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\TRABALHOS\BD_Campeonato_Futebol\BD_Campeonato_Futebol\BD_Campeonato_Futebol\obj\Debug\net6.0\BD_Campe.C6E73E37.Up2Date
+C:\Users\Matheus\Desktop\TRABALHOS\BD_Campeonato_Futebol\BD_Campeonato_Futebol\BD_Campeonato_Futebol\obj\Debug\net6.0\BD_Campeonato_Futebol.dll
+C:\Users\Matheus\Desktop\TRABALHOS\BD_Campeonato_Futebol\BD_Campeonato_Futebol\BD_Campeonato_Futebol\obj\Debug\net6.0\refint\BD_Campeonato_Futebol.dll
+C:\Users\Matheus\Desktop\TRABALHOS\BD_Campeonato_Futebol\BD_Campeonato_Futebol\BD_Campeonato_Futebol\obj\Debug\net6.0\BD_Campeonato_Futebol.pdb
+C:\Users\Matheus\Desktop\TRABALHOS\BD_Campeonato_Futebol\BD_Campeonato_Futebol\BD_Campeonato_Futebol\obj\Debug\net6.0\BD_Campeonato_Futebol.genruntimeconfig.cache
+C:\Users\Matheus\Desktop\TRABALHOS\BD_Campeonato_Futebol\BD_Campeonato_Futebol\BD_Campeonato_Futebol\obj\Debug\net6.0\ref\BD_Campeonato_Futebol.dll
